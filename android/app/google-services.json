@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664027984127",
+    "project_id": "codigo2-menuapp-62956",
+    "storage_bucket": "codigo2-menuapp-62956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664027984127:android:0aca39e53b8a00bf991cca",
+        "android_client_info": {
+          "package_name": "com.mennu.menuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664027984127-mfp1gcec2dec4fkvg3760qklmg8nic5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButRJ4pBm6BWI2H1GepwcbRCJcVfYLCIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664027984127-mfp1gcec2dec4fkvg3760qklmg8nic5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
